@@ -9,6 +9,6 @@
 | Database and storages                    | IPFS, Block DB(BigchainDB, etc)          |
 | Middlewares                              |                                          |
 | Networks                                 | p2p                                      |
-| Software architecture and solutions      | state channels, payment channel, decentralized system, , |
+| Software architecture and solutions      | state channels, payment channel, decentralized system |
 | Software development and quality assurance | asymmetric encryption                    |
 | Uncategorized                            |                                          |
