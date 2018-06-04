@@ -12,7 +12,7 @@ _Please PR for hierarchy improving_
 
 ##### Programming languages
 
-[`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` etc.
+[`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` `paradigms` etc.
 
 ##### Data structure and algorithms
 
@@ -58,18 +58,18 @@ methodologies, debugging, deployment, tools, testing, mainteance, performance, d
 
 If you want to be an expert in blockchain, organize the knowledge pieces like following sheet.
 
-| level                                    | domain specific techniques              |
-| :--------------------------------------- | :-------------------------------------- |
-| Programming languages                    | c/c++, golang                           |
-| Data structure and algorithms            | POW, POS, DPOS, PBFT,  Merkle Tree, DAG |
-| Software engineering                     | os, fs                                  |
-| Software frameworks                      |                                         |
-| Database and storages                    | IPFS                                    |
-| Middlewares                              |                                         |
-| Networks                                 | p2p                                     |
-| Software architecture and solutions      |                                         |
-| Software development and quality assurance |                                         |
-| Uncategorized                            |                                         |
+| level                                    | domain specific techniques               |
+| :--------------------------------------- | :--------------------------------------- |
+| Programming languages                    | c/c++, golang,  solidity                 |
+| Data structure and algorithms            | POW, POS, DPOS, PBFT,  Merkle Tree, DAG, mining, Raft, Paxos |
+| Software engineering                     | os, fs, FLP Impossibility, CAP theorem   |
+| Software frameworks                      | ethereum, bitcoin                        |
+| Database and storages                    | IPFS, Block DB(BigchainDB, etc)          |
+| Middlewares                              |                                          |
+| Networks                                 | p2p                                      |
+| Software architecture and solutions      | state channels, payment channel, decentralized system, , |
+| Software development and quality assurance | asymmetric encryption                    |
+| Uncategorized                            |                                          |
 
 ##### Domain specific experts' sheet
 
