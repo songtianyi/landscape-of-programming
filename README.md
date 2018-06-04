@@ -1,4 +1,6 @@
+Holography of programming
 
+This repo aim to show you what to learn on the way to excellence.
 
 [中文](中文.md)
 
