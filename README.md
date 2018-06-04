@@ -55,7 +55,7 @@ methodologies, debugging, deployment, tools, testing, mainteance, performance, d
 For example, if you want to be an expert of blockchain programming, organize the knowledge pieces like following sheet.
 
 | level                                    | domain specific techniques |
-| ---------------------------------------- | -------------------------- |
+| :--------------------------------------- | :------------------------- |
 | Programming languages                    | c/c++, golang              |
 | Data structure and algorithms            | POW, POST, DPOS, PBFT      |
 | Software engineering                     | os                         |
