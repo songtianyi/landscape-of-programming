@@ -10,63 +10,68 @@ In college, the scheduled classes shaped your way of learning, But after graduat
 
 _Please PR for hierarchy improving_
 
-#### Programming languages
+##### Programming languages
 
 [`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` etc.
 
-**Data structure and algorithms**
+##### Data structure and algorithms
 
 queue, set, linked list, heap, stack, hash-table, trie, red-black tree etc.
 
 dfs, bfs, quick sort, heap sort, binary search, dynamic programming, dijkstra, floyd, etc.
 
-#### Software engineering
+##### Software engineering
 
 runtime(os, virtualization, interpreters, container..), design patterns, models(concurrency, memory, lock, epoll, nio, kqueue..), mechanisms(gc, transactional..), theories, rfcs, etc
 
-#### Software frameworks
+##### Software frameworks
 
 spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, etc.
 
-#### Database and storages
+##### Database and storages
 
 relational(mysql..), document(mongodb..), time-serials(timescale..), key-value(redis..), graph(neo4j..), wild-column(cassandra..), event(event-store..), fs, hard-disk, etc.
 
-#### Middlewares
+##### Middlewares
 
 message-queue(rabbitmq, rocketmq, kafka..), etc.
 
-#### Networks
+##### Networks
 
 tcp/ip, https, http2.0, sdn, bluetooth, etc.
 
-#### Software architecture and solutions
+##### Software architecture and solutions
 
 c/s, b/s, p2p, distributed systems, decentralized systems, plugin, HA, micro services, serverless, faas, cloud infrastructure, etc.
 
-#### Software development and quality assurance
+##### Software development and quality assurance
 
 methodologies, debugging, deployment, tools, testing, mainteance, performance, docs, CI/CD, security, monitoring, etc.
 
-#### Uncategorized
+##### Uncategorized
 
 
 
-For example, if you want to be an expert of blockchain programming, organize the knowledge pieces like following sheet.
+### Domain specific knowledge Sheet
 
-| level                                    | domain specific techniques |
-| :--------------------------------------- | :------------------------- |
-| Programming languages                    | c/c++, golang              |
-| Data structure and algorithms            | POW, POST, DPOS, PBFT      |
-| Software engineering                     | os                         |
-| Software frameworks                      |                            |
-| Database and storages                    |                            |
-| Middlewares                              |                            |
-| Networks                                 | p2p                        |
-| Software development and quality assurance |                            |
-| Uncategorized                            |                            |
+##### Example
 
-Domain specific experts' sheet
+If you want to be an expert in blockchain, organize the knowledge pieces like following sheet.
+
+| level                                    | domain specific techniques              |
+| :--------------------------------------- | :-------------------------------------- |
+| Programming languages                    | c/c++, golang                           |
+| Data structure and algorithms            | POW, POS, DPOS, PBFT,  Merkle Tree, DAG |
+| Software engineering                     | os, fs                                  |
+| Software frameworks                      |                                         |
+| Database and storages                    | IPFS                                    |
+| Middlewares                              |                                         |
+| Networks                                 | p2p                                     |
+| Software architecture and solutions      |                                         |
+| Software development and quality assurance |                                         |
+| Uncategorized                            |                                         |
+
+##### Domain specific experts' sheet
 
 * [blockchain expert](blockchain-expert.md)
 
