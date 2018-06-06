@@ -1,6 +1,6 @@
 # Holography of programming
 
-This repo aim to show you what to learn on the way to excellence. It's a baby yet, any improvements will be appreciated!
+This repo aim to show you what to learn on the way to excellence. And The knowledge hierarchy is helpful for writing your resume. It's a baby yet, any improvements will be appreciated!
 
 [中文](中文.md)
 
