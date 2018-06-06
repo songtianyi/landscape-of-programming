@@ -79,3 +79,6 @@ If you want to be an expert in blockchain, organize the knowledge pieces like fo
 
 *Please pr for more expert knowledge hierarchy sheet*
 
+### Contribution guidelines
+
+* There are many technique items in each level, each item should have a link to introduction/definition resources. ex. [`C`](https://en.wikipedia.org/wiki/C_programming_language)
