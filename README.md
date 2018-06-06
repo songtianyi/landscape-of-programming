@@ -2,7 +2,7 @@
 
 This repo aim to show you what to learn on the way to excellence. And The knowledge hierarchy is helpful for writing your resume. It's a baby yet, any improvements will be appreciated!
 
-[中文](中文.md)
+[中文](中文.md) [English](README.md)
 
 In college, the scheduled classes shaped your way of learning, But after graduated, nobody telling you what to learn. You learned a lot, but in the meantime, you realized you know nothing. Because you don't have a knowledge hierarchy in your mind. This repo will(but not yet) show you a full clear view of programming technologies. Schedule your study plan with this hierarchy. Get charged before you out of battery :)
 
