@@ -22,11 +22,11 @@ dfs, bfs, quick sort, heap sort, binary search, dynamic programming, dijkstra, f
 
 ##### Software engineering
 
-runtime(os, virtualization, interpreters, container..), design patterns, models(concurrency, memory, lock, epoll, nio, kqueue..), mechanisms(gc, transactional..), theories, rfcs, etc
+runtime(os, virtualization, interpreters, container..), design patterns, models(concurrency, memory, lock, epoll, nio, kqueue..), mechanisms(gc, transactional..), theories(CAP, etc), RFCs, etc
 
 ##### Software frameworks
 
-spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, etc.
+spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, antlr, etc.
 
 ##### Database and storages
 
