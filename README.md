@@ -1,6 +1,6 @@
 # Holography of programming
 
-This repo aim to show you what to learn on the way to excellence. And The knowledge hierarchy is helpful for writing your resume. It's a baby yet, any improvements will be appreciated!
+This repo aim to show you what to learn on the way to excellence. And the knowledge hierarchy is helpful for writing your resume. It's a baby yet, any improvements will be appreciated!
 
 [中文](中文.md) [English](README.md)
 
@@ -12,7 +12,7 @@ _Please PR for hierarchy improving_
 
 ##### Programming languages
 
-[`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` `paradigms` etc.
+[`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` ` type systems` `paradigms` `tool chains` `haskell` etc.
 
 ##### Data structure and algorithms
 
@@ -26,11 +26,11 @@ runtime(os, virtualization, interpreters, container..), design patterns, models(
 
 ##### Software frameworks
 
-spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, antlr, etc.
+spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, antlr, ionic, gtk, openGL, etc.
 
 ##### Database and storages
 
-relational(mysql..), document(mongodb..), time-serials(timescale..), key-value(redis..), graph(neo4j..), wild-column(cassandra..), event(event-store..), fs, hard-disk, etc.
+relational(mysql..), document(mongodb..), time-serials(timescale..), key-value(redis..), graph(neo4j..), wild-column(cassandra..), event(event-store..), object-oriented(), fs, hard-disk, etc.
 
 ##### Middlewares
 
