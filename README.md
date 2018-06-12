@@ -81,4 +81,4 @@ If you want to be an expert in blockchain, organize the knowledge pieces like fo
 
 ### Contribution guidelines
 
-* There are many technique items in each level, each item should have a best intro/definition resource link. ex. [`C`](https://en.wikipedia.org/wiki/C_programming_language) , modify the link if you have better one.
+* There are many technique items in each level, each item should have a best intro/def resource link. ex. [`C`](https://en.wikipedia.org/wiki/C_programming_language) , modify the link if you have better one.
