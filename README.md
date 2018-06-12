@@ -30,7 +30,7 @@ spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, antlr, ionic, gtk
 
 ##### Database and storages
 
-relational(mysql..), document(mongodb..), time-serials(timescale..), key-value(redis..), graph(neo4j..), wild-column(cassandra..), event(event-store..), object-oriented(), fs, hard-disk, etc.
+relational(mysql..), document(mongodb..), time-serials(timescale..), key-value(redis..), graph(neo4j..), wild-column(cassandra..), event(event-store..), object-oriented(perst..), fs, hard-disk, etc.
 
 ##### Middlewares
 
