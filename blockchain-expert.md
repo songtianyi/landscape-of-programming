@@ -12,3 +12,4 @@
 | Software architecture and solutions      | state channels, payment channel, decentralized system |
 | Software development and quality assurance | asymmetric encryption                    |
 | Uncategorized                            |                                          |
+

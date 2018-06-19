@@ -26,7 +26,7 @@ runtime(os, virtualization, interpreters, container..), design patterns, models(
 
 ##### Software frameworks
 
-spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, antlr, ionic, gtk, openGL, etc.
+spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, antlr, ionic, gtk, openGL, qt, etc.
 
 ##### Database and storages
 
@@ -71,9 +71,10 @@ If you want to be an expert in blockchain, organize the knowledge pieces like fo
 | Software development and quality assurance | asymmetric encryption                    |
 | Uncategorized                            |                                          |
 
-##### Domain specific experts' sheet
+##### Domain specific or job specific knowledge sheet
 
 * [blockchain expert](blockchain-expert.md)
+* [sky-cloud.net senior](sky-cloud.net-senior.md)
 
 
 
