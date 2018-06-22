@@ -16,7 +16,7 @@ _Please PR for hierarchy improving_
 
 ##### Data structure and algorithms
 
-queue, set, linked list, heap, stack, hash-table, trie, red-black tree etc.
+queue, set, linked list, heap, stack, hash-table, trie, b tree, b+ tree, red-black tree etc.
 
 dfs, bfs, quick sort, heap sort, binary search, dynamic programming, dijkstra, floyd, etc.
 
