@@ -75,6 +75,7 @@ If you want to be an expert in blockchain, organize the knowledge pieces like fo
 
 * [blockchain expert](blockchain-expert-en.md) 
 * [sky-cloud.net senior](sky-cloud.net-senior-en.md)
+* [python senior](python-senior-en.md)
 
 
 
