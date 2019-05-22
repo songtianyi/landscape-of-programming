@@ -8,11 +8,11 @@ In college, the scheduled classes shaped your way of learning, But after graduat
 
 ### Knowledge hierarchy for programming
 
-_Please PR for improving the hierarchy
+_Please PR for improving the hierarchy_
 
 ##### Programming languages
 
-[`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` ` type systems` `paradigms` `tool chains` `haskell` etc.
+[`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` ` type systems` `paradigms` `tool chains` `haskell` `rust`etc.
 
 ##### Data structure and algorithms
 
@@ -83,4 +83,4 @@ If you want to be an expert in blockchain, organize the knowledge pieces like fo
 
 ### Contribution guidelines
 
-* There are many technique items in each level, each item should have a best intro/def resource link. ex. [`C`](https://en.wikipedia.org/wiki/C_programming_language) , modify the link if you have better one.
+* There are many technique items in each level, each item should have appropriate intro/def resource link. ex. [`C`](https://en.wikipedia.org/wiki/C_programming_language) . Modify the link if you have better one.
