@@ -1,14 +1,14 @@
-# Holography of programming
+# Landscape of programming
 
 This repo aim to show you what to learn on the way to excellence. And the knowledge hierarchy is helpful for writing your resume. It's a baby yet, any improvements will be appreciated!
 
-[中文](zh_CN.md) [English](README.md)
+[	中文](zh_CN.md) [English](README.md)
 
 In college, the scheduled classes shaped your way of learning, But after graduated, nobody telling you what to learn. You learned a lot, but in the meantime, you realized you know nothing. Because you don't have a knowledge hierarchy in your mind. This repo will(but not yet) show you a full clear view of programming techniques. Schedule your study plan with this hierarchy. Get charged before you out of battery :)
 
 ### Knowledge hierarchy for programming
 
-_Please PR for hierarchy improving_
+_Please PR for improving the hierarchy
 
 ##### Programming languages
 
@@ -26,7 +26,7 @@ runtime(os, virtualization, interpreters, container..), design patterns, models(
 
 ##### Software frameworks
 
-spring-boot, boost, express, vue, protobuf, zookeeper, hadoop, antlr, ionic, gtk, openGL, qt, etc.
+spring-boot, boost, express, vue, protobuf, ionic, gtk, openGL, qt, etc.
 
 ##### Database and storages
 
@@ -38,7 +38,7 @@ message-queue(rabbitmq, rocketmq, kafka..), etc.
 
 ##### Networks
 
-tcp/ip, https, http2.0, sdn, bluetooth, etc.
+tcp/ip, https, http2.0, sdn, bluetooth, routers, switchs, vlan, vxlan, firewalls, etc.
 
 ##### Software architecture and solutions
 
@@ -58,18 +58,18 @@ methodologies, debugging, deployment, tools, testing, mainteance, performance, d
 
 If you want to be an expert in blockchain, organize the knowledge pieces like following sheet.
 
-| level                                    | domain specific techniques               |
-| :--------------------------------------- | :--------------------------------------- |
-| Programming languages                    | c/c++, golang,  solidity                 |
-| Data structure and algorithms            | POW, POS, DPOS, PBFT,  Merkle Tree, DAG, mining, Raft, Paxos |
-| Software engineering                     | os, fs, FLP Impossibility, CAP theorem   |
-| Software frameworks                      | ethereum, bitcoin                        |
-| Database and storages                    | IPFS, Block DB(BigchainDB, etc)          |
-| Middlewares                              |                                          |
-| Networks                                 | p2p                                      |
-| Software architecture and solutions      | state channels, payment channel, decentralized system |
-| Software development and quality assurance | asymmetric encryption                    |
-| Uncategorized                            |                                          |
+| hierarchy                                  | domain specific techniques                                   |
+| :----------------------------------------- | :----------------------------------------------------------- |
+| Programming languages                      | c/c++, golang,  solidity                                     |
+| Data structure and algorithms              | POW, POS, DPOS, PBFT,  Merkle Tree, DAG, mining, Raft, Paxos |
+| Software engineering                       | os, fs, FLP Impossibility, CAP theorem                       |
+| Software frameworks                        | ethereum, bitcoin                                            |
+| Database and storages                      | IPFS, Block DB(BigchainDB, etc)                              |
+| Middlewares                                |                                                              |
+| Networks                                   | p2p                                                          |
+| Software architecture and solutions        | state channels, payment channel, decentralized system        |
+| Software development and quality assurance | asymmetric encryption                                        |
+| Uncategorized                              |                                                              |
 
 ##### Domain specific or job specific knowledge sheet
 
