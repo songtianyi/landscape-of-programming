@@ -10,13 +10,15 @@ In college, the scheduled classes shaped your way of learning, But after graduat
 
 _Please PR for improving the hierarchy_
 
+##### Computer architecture
+
 ##### Programming languages
 
 [`c/c++`](http://www.google.com) `node` `golang` `java, groovy, scala` `shell` ` type systems` `paradigms` `tool chains` `haskell` `rust`etc.
 
 ##### Data structure and algorithms
 
-queue, set, linked list, heap, stack, hash-table, trie, b tree, b+ tree, red-black tree etc.
+queue, set, linked list, heap, stack, hash-table, trie, b tree, b+ tree, red-black tree, splay tree, R tree etc.
 
 dfs, bfs, quick sort, heap sort, binary search, dynamic programming, dijkstra, floyd, etc.
 
