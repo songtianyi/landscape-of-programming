@@ -20,7 +20,7 @@ _Please PR for improving the hierarchy_
 
 queue, set, linked list, heap, stack, hash-table, trie, b tree, b+ tree, red-black tree, splay tree, R tree etc.
 
-dfs, bfs, quick sort, heap sort, binary search, dynamic programming, dijkstra, floyd, hash(crc32, md5) etc.
+dfs, bfs, quick sort, heap sort, binary search, dynamic programming, dijkstra, floyd, hash(crc32, md5), math(number theory, linear algebra, 3D-math) etc.
 
 ##### Software engineering
 
